@@ -1,0 +1,41 @@
+body{
+    background: url(./assets/c5.jpg); 
+       position: relative;
+    background-size:  cover;
+}
+#file2{
+    padding: 30px;
+background-color: green;
+margin-right: 40px;
+font-weight: 200;
+border-radius: 10px;
+border: 1px solid green;
+
+font-size: x-large;
+color: white;}
+#file3{
+    background-color: red;
+    color: white;
+    padding: 30px;
+    margin-left: 5px;
+font-weight: 200;
+
+border-radius: 10px;
+border: 1px solid red;
+font-size: x-large;
+
+
+}
+.box{
+    justify-content: space-between;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+    color: black;
+}
+h2{
+    font-size: 80px;
+    color:blue
+}
